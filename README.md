@@ -8,7 +8,7 @@ Yani kullanici 1 ya da birden fazla dosya yuklediginde sistem:
 - Gerekirse PDF'i sayfa sayfa ayiriyor
 - ZIP icinde ciktilari 1.pdf, 2.pdf, 3.pdf... diye veriyor
 
-Bu gorevi garantiye almak icin projeyi iki modlu yaptim:
+2 mod:
 - Normal Mod: Her dosya tek PDF
 - Parcalara Bol Modu: PDF cikti sayfa sayfa ayrilir
 
