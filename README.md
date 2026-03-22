@@ -123,8 +123,7 @@ npm start
 
 ## Bilinen Sinirlar
 - Word/Excel COM tarafi Windows ortamina bagimli
-- Cok buyuk dosyalarda sure artabilir
-- Eski DOC formatinda nadiren gorunum farki olabilir
+
 
 
 Son guncelleme: 22 Mart 2026
