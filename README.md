@@ -12,15 +12,15 @@ Yani kullanici 1 ya da birden fazla dosya yuklediginde sistem:
 - Normal Mod: Her dosya tek PDF
 - Parcalara Bol Modu: PDF cikti sayfa sayfa ayrilir
 
-## Gorevle Uyum Tablosu
-| Istenen | Durum |
+
+
 |---|---|
-| Web tabanli cozum | Tamam |
-| DOC, DOCX, JPG, PNG, XLS, XLSX destegi | Tamam |
-| PDF donusumu | Tamam |
-| ZIP olarak indirme | Tamam |
-| ZIP icinde 1.pdf, 2.pdf, 3.pdf... | Tamam |
-| Sayfa sayfa ayirma (opsiyonel mod) | Tamam |
+| Web tabanli cozum 
+| DOC, DOCX, JPG, PNG, XLS, XLSX destegi 
+| PDF donusumu 
+| ZIP olarak indirme 
+| ZIP icinde 1.pdf, 2.pdf, 3.pdf... 
+| Sayfa sayfa ayirma (opsiyonel mod) 
 
 ## Kullanicinin Gordugu Akis
 1. Siteye giriyor
