@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+/* Uygulamanin acik tema degiskenleri */
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+/* Tailwind icine kendi degiskenlerimi enjekte ediyorum */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+/* Kullanici sistemde dark mode acarsa temel renkleri tersliyorum */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+/* Genel govde stili */
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}
