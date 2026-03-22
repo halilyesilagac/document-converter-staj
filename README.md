@@ -62,7 +62,7 @@ Bu gorevi garantiye almak icin projeyi iki modlu yaptim:
 - DOC: LibreOffice fallback
 - XLS/XLSX: Python + Microsoft Excel COM
 
-## Neden Bu Yapiyi Sectim?
+## Neden Bu Yapi
 - Font/duzen koruma benim icin kritikti, bu yuzden Word/Excel dosyalarinda Office COM kullandim.
 - Eski DOC uyumlulugu icin LibreOffice fallback ekledim.
 - Gorevde istenen parcalama mantigini gostermek icin ayri bir "Parcalara Bol" modu ekledim.
